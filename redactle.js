@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @author       Jordan Lozinski
 // @version      0.1
-// @description  Adds a hover tool-tip which shows the length of redacted words on redactle.com
+// @description  Adds a hover tool-tip which shows the length of redacted words on redactle.com and displays length next to the word input
 // @include      https://www.redactle.com/*
 // @require      https://code.jquery.com/jquery-latest.js
 // ==/UserScript==
